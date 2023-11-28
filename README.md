@@ -1,23 +1,24 @@
-# Greg_Python
 
-This is Joy's repository for Greg's Class Recitation in Python and R.
-You can reach me or Greg and Yanji by following the email address. 
+# Greg's Class Recitation Repository
 
-Professor: Gregory Eirich (gme2101@columbia.edu)
-TA: Joy Younsoo Kim (yk2949@columbia.edu); Yanji Du (yd2610@columbai.edu)
+Welcome to Joy's repository for Greg's Class Recitation in Python and R!
 
-# Data:
-The data we used for TA recitation sessions are stored in this folder.
-If you are looking for more information about the General Social Survey, here's a link: https://gss.norc.org/
+### Contacts
+- Professor: Gregory Eirich (gme2101@columbia.edu)
+- TA:
+    Joy Younsoo Kim (yk2949@columbia.edu)
+    Yanji Du (yd2610@columbia.edu)
 
-# Additional_Code_for_QnA
-Based on the students' questions, I wrote an example code in this folder.
-For instance, I explained briefly how to make a pie graph with Python.
+### Data
+The data utilized in TA recitation sessions is stored in this repository. For more information about the General Social Survey, visit this link [https://gss.norc.org/]
 
-# Lab_Example
-The code in this folder is conducting the same code which is written in R. 
-For instance, instead of using lm in R, the code uses statsmodels library to run a linear regression.
+### Additional Code for Q&A
+Explore the "Additional_Code_for_QnA" folder for example code addressing students' questions. For instance, find explanations on creating pie graphs with Python.
 
-# Lab_Example_with_Exercise
-In this folder, I stored the code that I used for TA recitation sessions.
-The code has some exercises and answers to the questions are at the end of the code. 
+### Lab Examples
+The "Lab_Example" folder contains code demonstrating the same concepts in both Python and R. For instance, it showcases using the lm function in R and the statsmodels library for linear regression in Python.
+
+### Lab Examples with Exercises
+Inside the "Lab_Example_with_Exercise" folder, you'll discover code utilized in TA recitation sessions. This code includes exercises, with answers conveniently provided at the end of each code. Dive in and enhance your understanding!
+
+Feel free to reach out to the professor or TAs with any queries. Happy coding!
