@@ -5,6 +5,7 @@ Welcome to Joy's repository for Greg's Class Recitation in Python and R!
 
 ### Contacts
 - Professor: Gregory Eirich (gme2101@columbia.edu)
+  
 - TA:
     Joy Younsoo Kim (yk2949@columbia.edu)
     Yanji Du (yd2610@columbia.edu)
